@@ -8,7 +8,7 @@ const Cancel = () => {
 
   return (
     <div className="success-wrapper">
-      <div className="success">
+      <div className="cancel">
         <p className="icon">
           <BsCartX />
         </p>
