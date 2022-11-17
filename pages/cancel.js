@@ -15,7 +15,7 @@ const Cancel = () => {
         <h2>Order Cancelled!</h2>
         <p className="email-msg">Please continue Shopping</p>
         <p className="description">
-          If you have any questions, please email
+          If you have any questions, please email 
           <a className="email" href="mailto:order@example.com">
             order@example.com
           </a>
